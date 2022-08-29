@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xA9ad7c216A192089A35c73976f2896733e1C98b6",
-  "SCAN_LINK": "https://goerli.etherscan.io/address/0xf6d86c8d6c5a54e6daac663104ed7ddfa43f2de7",
+  "CONTRACT_ADDRESS": "0x716235484dB7147B2EB2136EF278ef71229C2fE2",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x716235484db7147b2eb2136ef278ef71229c2fe2",
   "NETWORK": {
-    "NAME": "GoerliETH",
-    "SYMBOL": "ETH",
-    "ID": 5
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 80001
   },
-  "NFT_NAME": "PalmverseTest",
+  "NFT_NAME": "TestPalmverse",
   "SYMBOL": "PALM",
   "MAX_SUPPLY": 41,
-  "WEI_COST": 50000000000000000,
-  "DISPLAY_COST": 0.05,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.0001,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/palmversetestnet",
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lastpalm",
   "SHOW_BACKGROUND": true
 }
